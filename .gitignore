@@ -1,2 +1,4 @@
 .DS_Store
 installation-guide
+dist
+src/tempCodeRunnerFile.ts
