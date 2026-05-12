@@ -1,4 +1,19 @@
+node_modules/
+dist/
 .DS_Store
 installation-guide
-dist
+
+# TypeScript
+*.tsbuildinfo
 src/tempCodeRunnerFile.ts
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Editor
+.vscode/
