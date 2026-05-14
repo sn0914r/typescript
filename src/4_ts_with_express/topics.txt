@@ -1,0 +1,6 @@
+1. req.body typing
+2. req.params typing
+3. req.query typing
+4. basic response typing
+5. middleware typing
+6. custom req.user typing
